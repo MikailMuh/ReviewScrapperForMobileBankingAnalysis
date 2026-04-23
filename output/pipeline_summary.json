@@ -1,0 +1,51 @@
+{
+  "pipeline_date": "2026-04-24T01:39:38.880680",
+  "total_reviews": 6036,
+  "apps": {
+    "BCA Mobile": {
+      "total_reviews": 2314,
+      "category": "traditional_bank",
+      "avg_star_rating": 2.08,
+      "sentiment": {
+        "positive": 532,
+        "neutral": 157,
+        "negative": 1625
+      },
+      "themes": {
+        "performance": 1599,
+        "trust": 858,
+        "efficiency": 1388
+      }
+    },
+    "Jago": {
+      "total_reviews": 1745,
+      "category": "digital_bank_independent",
+      "avg_star_rating": 2.86,
+      "sentiment": {
+        "positive": 782,
+        "neutral": 56,
+        "negative": 907
+      },
+      "themes": {
+        "performance": 967,
+        "trust": 808,
+        "efficiency": 979
+      }
+    },
+    "Blu by BCA Digital": {
+      "total_reviews": 1977,
+      "category": "digital_bank_subsidiary",
+      "avg_star_rating": 2.47,
+      "sentiment": {
+        "positive": 653,
+        "neutral": 123,
+        "negative": 1201
+      },
+      "themes": {
+        "performance": 1291,
+        "trust": 713,
+        "efficiency": 1122
+      }
+    }
+  }
+}

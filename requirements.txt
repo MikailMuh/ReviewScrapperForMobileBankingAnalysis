@@ -1,0 +1,7 @@
+google-play-scraper>=1.2.0
+pandas>=2.0.0
+numpy>=1.24.0
+tqdm>=4.65.0
+Sastrawi>=1.0.1
+transformers>=4.35.0
+torch>=2.0.0
