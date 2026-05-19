@@ -1,0 +1,66 @@
+{
+  "pipeline_date": "2026-05-19T13:30:07.886338",
+  "total_reviews": 7659,
+  "apps": {
+    "BCA Mobile": {
+      "total_reviews": 2157,
+      "category": "traditional_bank",
+      "avg_star_rating": 2.08,
+      "sentiment": {
+        "positive": 120,
+        "neutral": 377,
+        "negative": 1660
+      },
+      "themes": {
+        "performance": 1515,
+        "trust": 907,
+        "efficiency": 1342
+      }
+    },
+    "Livin by Mandiri": {
+      "total_reviews": 2053,
+      "category": "traditional_bank",
+      "avg_star_rating": 2.25,
+      "sentiment": {
+        "positive": 147,
+        "neutral": 434,
+        "negative": 1472
+      },
+      "themes": {
+        "performance": 1363,
+        "trust": 689,
+        "efficiency": 1012
+      }
+    },
+    "Jago": {
+      "total_reviews": 1627,
+      "category": "digital_bank_independent",
+      "avg_star_rating": 2.89,
+      "sentiment": {
+        "positive": 484,
+        "neutral": 252,
+        "negative": 891
+      },
+      "themes": {
+        "performance": 879,
+        "trust": 771,
+        "efficiency": 917
+      }
+    },
+    "Blu by BCA Digital": {
+      "total_reviews": 1822,
+      "category": "digital_bank_subsidiary",
+      "avg_star_rating": 2.42,
+      "sentiment": {
+        "positive": 288,
+        "neutral": 265,
+        "negative": 1269
+      },
+      "themes": {
+        "performance": 1192,
+        "trust": 675,
+        "efficiency": 1051
+      }
+    }
+  }
+}
